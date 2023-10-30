@@ -20,11 +20,11 @@ public class BowlingGameTest {
     }
 
     @Test
-    public void lisaTestOne() {
+    public void lisaTestFour() {
         
     }
 
-    @public void lisaTestThree() {
-        
+    @public void lisaTestFive() {
+
     }
 }
