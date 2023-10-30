@@ -24,7 +24,10 @@ public class BowlingGameTest {
         
     }
 
+    @Test
     @public void lisaTestFive() {
         //comment comment comment
     }
+
+
 }
