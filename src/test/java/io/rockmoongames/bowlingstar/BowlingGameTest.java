@@ -1,7 +1,5 @@
 package io.rockmoongames.bowlingstar;
 
-import java.beans.Transient;
-
 import org.junit.jupiter.api.Test;
 
 public class BowlingGameTest {
