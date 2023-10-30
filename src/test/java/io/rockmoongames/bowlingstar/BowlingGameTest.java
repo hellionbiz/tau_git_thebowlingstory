@@ -18,4 +18,13 @@ public class BowlingGameTest {
     public void jessicaTestThree() {
         
     }
+
+    @Test
+    public void lisaTestOne() {
+        
+    }
+
+    @public void lisaTestThree() {
+        
+    }
 }
