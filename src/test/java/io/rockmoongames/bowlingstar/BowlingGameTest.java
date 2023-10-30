@@ -1,7 +1,4 @@
 package io.rockmoongames.bowlingstar;
-
-import java.beans.Transient;
-
 import org.junit.jupiter.api.Test;
 
 public class BowlingGameTest {
@@ -20,4 +17,20 @@ public class BowlingGameTest {
     public void jessicaTestThree() {
         
     }
+
+    @Test
+    public void lisaTestFour() {
+        
+    }
+
+    @Test
+    @public void lisaTestFive() {
+        //comment comment comment
+    }
+
+    @Test
+    @public void lisaTestSix() {
+
+    }
+
 }
