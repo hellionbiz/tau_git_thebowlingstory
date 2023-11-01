@@ -12,4 +12,19 @@ public class BowlingGameTest {
     public void jessicaTestTwo() {
 
     }
+
+    @Test
+    public void lisaTestFive() {
+
+    }
+
+    @Test
+    public void lisaTestSix() {
+
+    }
+
+    @Test
+    public void lisaTestSeven() {
+
+    }
 }
