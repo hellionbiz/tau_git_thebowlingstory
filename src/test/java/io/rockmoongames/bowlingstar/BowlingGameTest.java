@@ -12,25 +12,4 @@ public class BowlingGameTest {
     public void jessicaTestTwo() {
 
     }
-
-    @Test
-    public void jessicaTestThree() {
-        
-    }
-
-    @Test
-    public void lisaTestFour() {
-        
-    }
-
-    @Test
-    @public void lisaTestFive() {
-        //comment comment comment
-    }
-
-    @Test
-    @public void lisaTestSix() {
-
-    }
-
 }
